@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://eastanox.github.io/sitemap.html.gz
+Sitemap: https://eastanox.github.io/app/sitemap.html.gz
+Sitemap: https://eastanox.github.io/assets/sitemap.html.gz
+Sitemap: https://eastanox.github.io/css/sitemap.html.gz
+Sitemap: https://eastanox.github.io/includes/sitemap.html.gz
+Sitemap: https://eastanox.github.io/item/sitemap.html.gz
+Sitemap: https://eastanox.github.io/src/sitemap.html.gz
